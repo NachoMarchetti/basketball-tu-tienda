@@ -42,10 +42,10 @@ section nav{
 section nav .logo{
     font-size: 20px;
     color: red;
-    margin: 5px 0;
+    margin: 10px 0;
     cursor:pointer;
     position: relative;
-    left: -120px;
+    left: -70px;
 }
 section nav ul{
     list-style: none;
@@ -289,3 +289,6 @@ footer .footer_main .tag a{
 
 
 
+
+
+/*# sourceMappingURL=styles.css.map */
